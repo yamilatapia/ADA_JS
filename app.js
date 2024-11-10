@@ -1,1 +1,1 @@
-Contenido de archivo JS
+#Nombre.txt
